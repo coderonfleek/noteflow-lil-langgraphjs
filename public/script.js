@@ -4,11 +4,11 @@
 // Toggle each feature to 'true' after implementing the backend
 // ============================================================
 const AI_FEATURES = {
-    summarize: false,      // Set to true after implementing /api/ai/summarize
-    suggestTags: false,    // Set to true after implementing /api/ai/suggest-tags
-    smartSearch: false,    // Set to true after implementing /api/ai/smart-search
-    findRelated: false,    // Set to true after implementing /api/ai/find-related
-    improveWriting: false, // Set to true after implementing /api/ai/improve-writing
+    summarize: true,      // Set to true after implementing /api/ai/summarize
+    suggestTags: true,    // Set to true after implementing /api/ai/suggest-tags
+    smartSearch: true,    // Set to true after implementing /api/ai/smart-search
+    findRelated: true,    // Set to true after implementing /api/ai/find-related
+    improveWriting: true, // Set to true after implementing /api/ai/improve-writing
 };
 // ============================================================
 
